@@ -44,8 +44,12 @@ nav ul li a:hover, a.active{
     gap: 70px;
     align-items: center;
 }
-#user-info{
-    display: none;    
+#front-page{
+    display : block;
+}
+#cash-memo{
+    display: none;
+    margin: 200px 150px;   
 }
 .booking-content{
     color: #fff;
